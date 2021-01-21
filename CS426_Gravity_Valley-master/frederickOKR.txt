@@ -1,0 +1,9 @@
+Schedule and deliverable:
+    COMPLETE: Build terrain for level -- 2 hr (Sunday 12am)
+    COMPLETE: Rework valley design to be platform based -- 1 hr (Tuesday 3pm)
+    Add in AI boulders -- 2 hr (Tueday 11pm)
+    COMPLETE: Animated metal starting door -- 1 hr (Tuesday 3pm)
+        Mecanim animation -- 30m (Tuesday 3pm)
+        Sound effect -- 15m (Tuesday 3pm)
+        Lighting -- 15m (Tuesday 3pm)
+    COMPLETE: Rework Gravity Mechanic -- 1 hr (Monday 12am)

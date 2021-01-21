@@ -1,0 +1,3 @@
+first person contoller -- Mon by 5pm (estimate: 1hr)
+hunger and thirst bar mockup -- Tue by 1pm (estimate: 2 hr)
+health bar mockup -- Tue by 6pm (estimate: 3hr)

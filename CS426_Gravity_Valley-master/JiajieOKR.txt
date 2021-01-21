@@ -1,0 +1,8 @@
+raw map for the project(Terrian) -- Sun 3/29 by 12pm (estimate: 2 hr)
+player actions, camera view  Sun 3/29 by 12pm (estimate: 0.5 hrs)
+Resources collection and pickup Tues 3/31 by 5pm (estimate: 2 hrs)
+Enemy AI with FMS 4/6 by 12pm (estimate: 2 hrs)
+place resources to and new map and 
+Sound effect -- 4/7 by 8pm (estimate: 1 hrs)
+background music 4/14 by 8pm
+zombie sounds 4/14 by 8pm (estimate: 2 hrs)
